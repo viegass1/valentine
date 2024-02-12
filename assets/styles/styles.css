@@ -1,0 +1,51 @@
+body {
+    background-image: url('../images/360_F_297761477_DBdNq7G2JmuBj0vBvpPb7CE5ARxjWKNZ.jpeg');
+    font-family: cursive;
+    font-size: 20px;
+    background-color: pink;
+    color: maroon;
+    text-align: center;
+}
+
+section {
+    background-color: #ff9dab;
+    margin: auto 10%;
+    padding: 30px;
+    border-color: maroon;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 20px;
+}
+
+form {
+    background-color:#FFB6C1;
+    font-family: Georgia;
+    padding: 10px;
+    color:rgb(184, 70, 108);
+    border-color: white;
+    border-style: dotted;
+    border-width: 4px;
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 4px;
+    font-family: georgia;
+}
+
+h1{
+    font-size: 48px;
+}
+
+em{
+    font-family: sans-serif;
+   font-size: 80px;
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: aliceblue;
+}
